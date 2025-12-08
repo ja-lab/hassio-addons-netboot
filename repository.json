@@ -1,5 +1,5 @@
 {
-  "name": "FaserF's Home Assistant Add-ons",
-  "url": "https://github.com/faserf/hassio-addons",
+  "name": "Forked FaserF's Home Assistant Add-ons",
+  "url": "https://github.com/ja-lab/hassio-addons-netboot",
   "maintainer": "FaserF"
 }
